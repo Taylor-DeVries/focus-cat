@@ -11,5 +11,5 @@
     "skipLibCheck": true,
     "types": ["chrome"]
   },
-  "include": ["src", "public/background.js"]
+  "include": ["src"]
 }
