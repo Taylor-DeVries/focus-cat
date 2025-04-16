@@ -2,7 +2,9 @@
 
 Stay focused with the help of a cute cat companion and a custom pomodoro timer!  
 Focus Pal is a minimalist Chrome extension that lets you switch between **study** and **break** modes, complete with a visual timer, cat moods, and adorable animations.
-
+| Study Mode | Break Mode | Settings Modal |
+| --- | --- | --- |
+| ![image](https://github.com/user-attachments/assets/cdf31a6a-8b52-497f-ba17-5bbe90ea87e8) | ![image](https://github.com/user-attachments/assets/e7e948c8-bacd-47d8-ab20-29d522362e65) | ![image](https://github.com/user-attachments/assets/835f7649-9829-4385-b2df-05b7e88a4e89) |
 ---
 
 ## 🚀 Features
