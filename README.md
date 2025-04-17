@@ -22,7 +22,7 @@ Focus Cat is a minimalist Chrome extension that lets you switch between **study*
 
 ```bash
 git clone https://github.com/taylor-devries/focus-cat.git
-cd focus-pal
+cd focus-cat
 ```
 
 2. Install dependencies and build:
